@@ -1,7 +1,0 @@
-target/
-.git
-*.md
-*.log
-*.env
-.idea/
-*.iml
